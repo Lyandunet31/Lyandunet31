@@ -4,4 +4,17 @@
 [![My Skills](https://skillicons.dev/icons?i=js,python,lua)](https://skillicons.dev)
 
 # 🤩 Animation of the day 🤩
- [svg](https://raw.githubusercontent.com/Lyandunet31/Lyandunet31/refs/heads/main/Assets/github-user-contribution.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Lyandunet31/Lyandunet31/refs/heads/main/Assets/github-user-contribution.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Lyandunet31/Lyandunet31/refs/heads/main/Assets/github-user-contribution.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Lyandunet31/Lyandunet31/refs/heads/main/Assets/github-user-contribution.svg"
+  />
+</picture>
